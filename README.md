@@ -7,4 +7,7 @@ The main purpose of the project is to replicate the visual apperaence of Pintere
 ### Characteristics
 * Responsive design
 * Screen adaptability for a better user interface experience
-* 
+
+ - *Still building this part of the description*-
+
+   If you would like to work on a project together send me a message on my [LinkedIn] profile(https://www.linkedin.com/in/jessica-romero-lora/)
